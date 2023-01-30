@@ -1,5 +1,5 @@
 _G.Enabled = true
---local data = readfile("nframes/owl.txt")
+--local data = readfile("nframes/amongus.txt")
 local data = game:HttpGet("https://raw.githubusercontent.com/justnothinnn/polish-man/main/frames.txt") -- prerendered amongus video
 
 function update(text)
